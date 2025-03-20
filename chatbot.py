@@ -5,7 +5,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.tree import DecisionTreeClassifier
 
-#-----------------------------------------#
+#------------ Predefined functions -----------------------------#
 
 def bow(vocabulary:list, sentence:str, )-> list:
     '''Generates a bow-array:list[int] for a given sentence:str based on a given vocabulary:list[str] '''
@@ -46,7 +46,7 @@ def create_vocabulary(sentences):
     # vocabulary = words_list
     return vocabulary
 
-#-------------------------------------------------------------------#
+#------------------ Training -------------------------------------------------#
 
 df = pd.read_csv('ChatbotTraining.csv',
                 sep=',',              # Specify separator (default is comma)
@@ -54,3 +54,11 @@ df = pd.read_csv('ChatbotTraining.csv',
                 header=0)
 print(df['tag'].shape)
 print(df['patterns'].shape)
+
+# input data
+sentences = df['patterns'].values.tolist()
+chars = '!?.\','
+sentences = remove_chars(chars, sentences)
+
+count_vec = CountVectorizer()
+word_counts = count_vec.fit_transform(sentences,)
