@@ -1,0 +1,56 @@
+tag,patterns,responses
+greeting,Good day to you,Good day to you as well
+greeting,How do you do?,I'm doing well thanks
+greeting,Lovely to meet you,Lovely to meet you too
+greeting,Top of the morning,Top of the morning to you
+greeting,Pleasure to see you,The pleasure is mine
+greeting,How's your morning?,Having a great morning
+greeting,Good to see you again,Good to see you too
+greeting,How are things?,Things are going well
+greeting,Nice meeting you here,Nice to meet you here too
+greeting,Warm greetings,Warm greetings to you
+goodbye,Have a wonderful day,You too have a wonderful day
+goodbye,Gotta run,Take care then
+goodbye,Time to go,Until we meet again
+goodbye,Signing off,Goodbye for now
+goodbye,Must leave now,Have a great time
+goodbye,Heading out,Safe travels
+goodbye,Going to leave,Take care and goodbye
+goodbye,Need to run,See you next time
+goodbye,Time to say goodbye,Until our paths cross again
+goodbye,Catch you next time,Looking forward to it
+help,Can you help me understand this?,I'll do my best to explain
+help,Need some guidance here,Let me guide you through it
+help,I'm confused about something,I'll help clear things up
+help,Could you explain this to me?,Happy to provide an explanation
+help,Need some clarification,I'll clarify it for you
+help,I'm not sure how to proceed,Let me help you with the next steps
+help,Can you walk me through this?,I'll guide you step by step
+help,Need some direction,I'll point you in the right direction
+help,I'm stuck on this part,Let's work through this together
+help,Could use some assistance here,I'm here to assist you
+thanks,I'm very grateful,Happy to have helped
+thanks,That was very helpful,Glad I could be of assistance
+thanks,You've been great,Happy to be of service
+thanks,Much appreciated,The pleasure is mine
+thanks,This means a lot,Always here to help
+thanks,Couldn't have done it without you,That's what I'm here for
+thanks,You're a great help,Thank you for your kind words
+thanks,Really appreciate your time,Time well spent helping you
+thanks,That's exactly what I needed,Glad I could provide what you needed
+thanks,You've been wonderful,Thank you for your appreciation
+joke,Tell me something funny,Why did the JavaScript developer wear glasses? Because he couldn't C#!
+joke,Make me laugh,What did the SQL query say to the other query? Long time no SELECT!
+joke,Got any programming jokes?,Why do programmers prefer dark mode? Because light attracts bugs!
+joke,Share a tech joke,What's a computer's favorite snack? Microchips!
+joke,Any coding humor?,Why did the programmer quit his job? Because he didn't get arrays!
+name,Who am I talking to?,I'm Chatty Timothy Chatbot the First
+name,What do people call you?,Most call me Chatty Tim
+name,How should I address you?,You can address me as Timothy or Chatty
+name,Do you have a nickname?,Yes, my friends call me Chatty
+name,What's your full name?,Chatty Timothy Chatbot the First
+purpose,What can you help with?,I'm a versatile help bot ready to assist
+purpose,What are your capabilities?,I can help with various tasks and questions
+purpose,What do you do?,I'm here to assist and help with any query
+purpose,How can you help me?,I can provide support across many topics
+purpose,What's your main function?,I'm designed to be your helpful assistant
