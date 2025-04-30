@@ -1,11 +1,110 @@
 tag,patterns,responses
-greeting,Hello,Hello
 greeting,Hi,Hi
+greeting,Hi,Hey
+greeting,Hi,Greetings
+greeting,Hi,Howdy
+greeting,Hi,Hello there
+greeting,Hi,Hi there
+greeting,Hey,Hi
 greeting,Hey,Hey
-greeting,Good morning,Good morning
-greeting,Good afternoon,Good afternoon
-greeting,Good evening,Good evening
-greeting,How are you?,How are you?
+greeting,Hey,Greetings
+greeting,Hey,Howdy
+greeting,Hey,Hello there
+greeting,Hey,Hi there
+greeting,Greetings,Hi
+greeting,Greetings,Hey
+greeting,Greetings,Greetings
+greeting,Greetings,Howdy
+greeting,Greetings,Hello there
+greeting,Greetings,Hi there
+greeting,Howdy,Hi
+greeting,Howdy,Hey
+greeting,Howdy,Greetings
+greeting,Howdy,Howdy
+greeting,Howdy,Hello there
+greeting,Howdy,Hi there
+greeting,Hello there,Hi
+greeting,Hello there,Hey
+greeting,Hello there,Greetings
+greeting,Hello there,Howdy
+greeting,Hello there,Hello there
+greeting,Hello there,Hi there
+greeting,Hi there,Hi
+greeting,Hi there,Hey
+greeting,Hi there,Greetings
+greeting,Hi there,Howdy
+greeting,Hi there,Hello there
+greeting,Hi there,Hi there
+greeting,Hello,Hello
+greeting,Hello,Hey
+greeting,Hello,Hi there
+greeting,Hello,Hey there
+greeting,Hey,Hello
+greeting,Hey,Hey
+greeting,Hey,Hi there
+greeting,Hey,Hey there
+greeting,Hi there,Hello
+greeting,Hi there,Hey
+greeting,Hi there,Hi there
+greeting,Hi there,Hey there
+greeting,Hey there,Hello
+greeting,Hey there,Hey
+greeting,Hey there,Hi there
+greeting,Hey there,Hey there
+greeting,Hi,Hi
+greeting,Hi,Hello
+greeting,Hi,Hey there
+greeting,Hi,Yo
+greeting,Hello,Hi
+greeting,Hello,Hello
+greeting,Hello,Hey there
+greeting,Hello,Yo
+greeting,Hey there,Hi
+greeting,Hey there,Hello
+greeting,Hey there,Hey there
+greeting,Hey there,Yo
+greeting,Yo,Hi
+greeting,Yo,Hello
+greeting,Yo,Hey there
+greeting,Yo,Yo
+greeting,Morning,Morning
+greeting,Morning,Good day
+greeting,Morning,"Hello, good morning"
+greeting,Good day,Morning
+greeting,Good day,Good day
+greeting,Good day,"Hello, good morning"
+greeting,"Hello, good morning",Morning
+greeting,"Hello, good morning",Good day
+greeting,"Hello, good morning","Hello, good morning"
+greeting,Afternoon,Afternoon
+greeting,Afternoon,Good day
+greeting,Afternoon,"Hello, good afternoon"
+greeting,Good day,Afternoon
+greeting,Good day,Good day
+greeting,Good day,"Hello, good afternoon"
+greeting,"Hello, good afternoon",Afternoon
+greeting,"Hello, good afternoon",Good day
+greeting,"Hello, good afternoon","Hello, good afternoon"
+greeting,Evening,Evening
+greeting,Evening,"Hello, good evening"
+greeting,"Hello, good evening",Evening
+greeting,"Hello, good evening","Hello, good evening"
+greeting,How's it going?,How's it going?
+greeting,How's it going?,How have you been?
+greeting,How's it going?,How are you doing?
+greeting,How's it going?,How's everything?
+greeting,How have you been?,How's it going?
+greeting,How have you been?,How have you been?
+greeting,How have you been?,How are you doing?
+greeting,How have you been?,How's everything?
+greeting,How are you doing?,How's it going?
+greeting,How are you doing?,How have you been?
+greeting,How are you doing?,How are you doing?
+greeting,How are you doing?,How's everything?
+greeting,How's everything?,How's it going?
+greeting,How's everything?,How have you been?
+greeting,How's everything?,How are you doing?
+greeting,How's everything?,How's everything?
 greeting,What's up?,What's up?
 greeting,Howdy,Howdy
 greeting,Greetings,Greetings
@@ -29,8 +128,47 @@ greeting,How's your day been?,How's your day been?
 greeting,Hey buddy,Hey buddy
 greeting,Welcome,Welcome
 greeting,"Well, hello there!","Well, hello there!"
-goodbye,Goodbye,Goodbye
 goodbye,Bye,Bye
+goodbye,Bye,See you later
+goodbye,Bye,Farewell
+goodbye,Bye,Take care
+goodbye,Bye,Bye-bye
+goodbye,See you later,Bye
+goodbye,See you later,See you later
+goodbye,See you later,Farewell
+goodbye,See you later,Take care
+goodbye,See you later,Bye-bye
+goodbye,Farewell,Bye
+goodbye,Farewell,See you later
+goodbye,Farewell,Farewell
+goodbye,Farewell,Take care
+goodbye,Farewell,Bye-bye
+goodbye,Take care,Bye
+goodbye,Take care,See you later
+goodbye,Take care,Farewell
+goodbye,Take care,Take care
+goodbye,Take care,Bye-bye
+goodbye,Bye-bye,Bye
+goodbye,Bye-bye,See you later
+goodbye,Bye-bye,Farewell
+goodbye,Bye-bye,Take care
+goodbye,Bye-bye,Bye-bye
+goodbye,Goodbye,Goodbye
+goodbye,Goodbye,See you
+goodbye,Goodbye,Later
+goodbye,Goodbye,Bye-bye
+goodbye,See you,Goodbye
+goodbye,See you,See you
+goodbye,See you,Later
+goodbye,See you,Bye-bye
+goodbye,Later,Goodbye
+goodbye,Later,See you
+goodbye,Later,Later
+goodbye,Later,Bye-bye
+goodbye,Bye-bye,Goodbye
+goodbye,Bye-bye,See you
+goodbye,Bye-bye,Later
+goodbye,Bye-bye,Bye-bye
 goodbye,See you later,See you later
 goodbye,See you soon,See you soon
 goodbye,See you tomorrow,See you tomorrow
@@ -224,3 +362,13 @@ age,What generation are you?,I'm part of the newer generation created in 2023.
 age,Are you mature?,While I'm only 2 years old I'm constantly learning.
 age,How long have you existed?,I've existed for 2 years since 2023.
 age,What's your creation date?,I was created on April 30 2023.
+age,What's your actual age?,I was created 2 years ago in 2023.
+age,Could you tell me your age?,I'm a young AI just 2 years old.
+age,Do you mind sharing your age?,I'm relatively new having been activated in 2023.
+age,I'm curious about your age,I came into existence 2 years ago and I'm still learning.
+age,When did you first come online?,April 30 2023 was when I was first activated.
+age,How old might you be?,I'm 2 years old as of 2025.
+age,Can you share your age with me?,I was brought online 2 years ago.
+age,What's your approximate age?,I've been around for about 2 years now.
+age,Would you mind telling me your age?,I'm proud to say I'm 2 years old.
+age,How many years have you existed?,It's been 2 wonderful years since my creation.
